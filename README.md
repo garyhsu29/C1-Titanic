@@ -1,5 +1,6 @@
 # C1-Titanic
-Kaggle
+From Kaggle
+### Please Open C1-model.ipynb for details
 File:  
 1. train.csv, training data with label survive  
 2. test.csv, testing data without label  
